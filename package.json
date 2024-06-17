@@ -1,0 +1,12 @@
+{
+  "name": "indian_railway_service",
+  "version": "1.0.0",
+  "description": "src/\r ├── app.js\r ├── controllers/\r │   ├── tableController.js\r │   └── digitalFormsController.js\r ├── models/\r │   ├── db.js\r │   ├── tableModel.js\r │   └── digitalFormModel.js\r └── routes/\r     ├── tableRoutes.js\r     └── digitalFormRoute.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

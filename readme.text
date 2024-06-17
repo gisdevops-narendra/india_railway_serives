@@ -1,0 +1,12 @@
+src/
+├── app.js
+├── controllers/
+│   ├── tableController.js
+│   └── digitalFormsController.js
+├── models/
+│   ├── db.js
+│   ├── tableModel.js
+│   └── digitalFormModel.js
+└── routes/
+    ├── tableRoutes.js
+    └── digitalFormRoute.js
